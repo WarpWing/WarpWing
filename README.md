@@ -33,6 +33,6 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male based in New York that loves 
 - [Git](https://git-scm.com/) Version Control
 - [MongoDB](https://www.mongodb.com/)/NoSQL Databases
 - [Python](https://www.python.org/) 
-- Kubernetes: [microk8s](https://microk8s.io/) and [k3s](https://k3s.io/)
+- Kubernetes: [microk8s](https://microk8s.io/),[k3s](https://k3s.io/) and [kind](https://kind.sigs.k8s.io/)
 - [Terraform](https://www.terraform.io/)
 - [YAML](https://yaml.org/) Markup Language
