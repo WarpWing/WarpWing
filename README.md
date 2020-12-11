@@ -38,3 +38,6 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male based in New York that loves 
 - Kubernetes: [microk8s](https://microk8s.io/),[k3s](https://k3s.io/) and [kind](https://kind.sigs.k8s.io/)
 - [Terraform](https://www.terraform.io/)
 - [YAML](https://yaml.org/) Markup Language
+
+# Where you can contact me 
+Discord: WarpWing#3866
