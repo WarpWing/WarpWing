@@ -41,4 +41,4 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 - [Endolia Industries](https://github.com/Endolia-Industries) - Current CTO 
 
 # Where you can contact me 
-Discord: WarpWing#3866
+- Discord: WarpWing#3866
