@@ -40,8 +40,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 - [Terraform](https://www.terraform.io/)
 - [YAML](https://yaml.org/) Markup Language
 
-## Organizations I'm affilated with
-
+## Organizations I'm currently affilated with.
 - [Endolia Industries](https://github.com/Endolia-Industries) - Current CTO 
 
 # Where you can contact me 
