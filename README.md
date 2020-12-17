@@ -8,14 +8,11 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 
 ## Projects I've touched
 
-[SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - Ex DevOps Engineer and System Admistrator 
+[SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - Ex DevOps Engineer 
 
 [Engima](https://github.com/WarpWing/MultipassSimplified) - Current active maintainer and main developer
 
 [Longhorn](https://github.com/WarpWing/Longhorn) - Current active maintainer and main developer
-
-[Trident](https://github.com/WarpWing/Trident) - Current active maintainer and main developer
-
 
 
 ## Technologies I've worked with 
