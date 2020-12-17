@@ -3,7 +3,7 @@
 Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York that loves to experiment with backend infrastructure and logistics . I'm currently pursuing the AWS Certified Cloud Practitioner certificate and plan to work my way up to AWS DevOps Engineer Professional. Please take a look around and see if anything piques your interest!![image](https://cdn.discordapp.com/attachments/734545389340065837/782013699149266974/warden.png)
 
 ## My Github Achievements 
-
+[![WarpWing's Github Stats](https://github-readme-stats.vercel.app/api?username=WarpWing&show_icons=true&theme=onedark)](https://github.com/WarpWing)
 ![trophy](https://github-profile-trophy.vercel.app/?username=WarpWing&theme=onedark)
 
 ## Projects I've touched
