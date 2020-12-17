@@ -33,7 +33,8 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 - [Docker-compose](https://docs.docker.com/compose/)
 - [Github Actions](https://github.com/features/actions) 
 - [Git](https://git-scm.com/) Version Control
-- [MongoDB](https://www.mongodb.com/)/NoSQL Databases
+- [MongoDB](https://www.mongodb.com/)
+- [Redos](https://redis.io/)
 - [Python](https://www.python.org/) 
 - Kubernetes: [microk8s](https://microk8s.io/),[k3s](https://k3s.io/) and [kind](https://kind.sigs.k8s.io/)
 - [Terraform](https://www.terraform.io/)
