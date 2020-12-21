@@ -43,3 +43,4 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 
 # Where you can contact me 
 - Discord: WarpWing#3866
+
