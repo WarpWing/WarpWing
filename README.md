@@ -27,7 +27,8 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 - AWS [VPC](https://aws.amazon.com/vpc/)
 - [Bash](https://www.gnu.org/software/bash/)
 - [Docker](https://www.docker.com/)
-- [Docker-compose](https://docs.docker.com/compose/)
+- [Docker-compose](https://docs.docker.com/compose/) 
+- [FastAPI](https://fastapi.tiangolo.com/)
 - [Github Actions](https://github.com/features/actions) 
 - [Git](https://git-scm.com/) Version Control
 - [Markdown](https://daringfireball.net/projects/markdown/)
