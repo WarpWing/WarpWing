@@ -41,6 +41,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 
 ## Organizations I'm currently affilated with.
 - [Endolia Industries](https://github.com/Endolia-Industries) - Current CTO 
+- [Scorvia Solutions](https://github.com/Scorvia-Solutions) - Founder and Current CEO
 
 # Where you can contact me 
 - Discord: WarpWing#3866
