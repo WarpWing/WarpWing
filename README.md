@@ -35,7 +35,11 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 - [MongoDB](https://www.mongodb.com/)
 - [Redis](https://redis.io/)
 - [Python](https://www.python.org/) 
-- Kubernetes: [microk8s](https://microk8s.io/),[k3s](https://k3s.io/) and [kind](https://kind.sigs.k8s.io/)
+- Kubernetes: 
+  - [microk8s](https://microk8s.io/)
+  - [minikube](https://minikube.sigs.k8s.io/)
+  - [k3s](https://k3s.io/) 
+  - [kind](https://kind.sigs.k8s.io/)
 - [Terraform](https://www.terraform.io/)
 - [YAML](https://yaml.org/) Markup Language
 
