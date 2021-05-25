@@ -41,9 +41,8 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 - [YAML](https://yaml.org/) Markup Language
 
 ## Organizations I'm currently affilated with.
-- [Endolia Industries](https://github.com/Endolia-Industries) - Current CTO 
-- [Scorvia Solutions](https://github.com/Scorvia-Solutions) - Founder and Current CEO
-
+- [Endolia Industries](https://github.com/Endolia-Industries) - Developer
+- [Scorvia Solutions](https://github.com/Scorvia-Solutions) - Founder and Developer
 # Where you can contact me 
 - Discord: WarpWing#3866
 
