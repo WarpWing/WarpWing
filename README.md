@@ -41,7 +41,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 16 year old Male(he/him) based in New York tha
 - [YAML](https://yaml.org/) Markup Language
 
 ## Organizations I'm currently affilated with.
-- [First World](https://github.com/First-World-Solutions) - DevOps Director
+- [First World](https://github.com/First-World-LLC) - DevOps Director
 - [Scorvia Solutions](https://github.com/Scorvia-Solutions) - Contributor
 # Where you can contact me 
 - Discord: WarpWing#3866
