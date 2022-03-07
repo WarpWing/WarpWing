@@ -29,15 +29,16 @@ Hi! I'm Ty Chermsirivatana. I'm a 17 year old Male(he/him) based in New York tha
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Github Actions](https://github.com/features/actions) 
 - [Git](https://git-scm.com/) Version Control
-- [Markdown](https://daringfireball.net/projects/markdown/)
-- [MongoDB](https://www.mongodb.com/)
-- [Redis](https://redis.io/)
-- [Python](https://www.python.org/) 
 - Kubernetes: 
   - [microk8s](https://microk8s.io/)
   - [minikube](https://minikube.sigs.k8s.io/)
   - [k3s](https://k3s.io/) 
   - [kind](https://kind.sigs.k8s.io/)
+- [Markdown](https://daringfireball.net/projects/markdown/)
+- [MongoDB](https://www.mongodb.com/)
+- OCI [Compute](https://www.oracle.com/cloud/compute/virtual-machines/)
+- [Python](https://www.python.org/) 
+- [Redis](https://redis.io/)
 - [Terraform](https://www.terraform.io/)
 - [YAML](https://yaml.org/) Markup Language
 
