@@ -4,6 +4,8 @@ Hi! I'm Ty Chermsirivatana. I'm a 17 year old Male(he/him) based in New York tha
 # My Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WarpWing&theme=radical&hide_border=true&fire=DD2311)](https://git.io/streak-stats)
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=WarpWing&hide_border=true&theme=redical)
+# Where I code:
+Though I used to code on Github, I'm moving my code offsite to a private Gitlab instances owned by my friend. Check out my [profile](https://koakuma.soopy.moe/WarpWing) here.
 ## Projects I've touched
 
 - [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - Ex DevOps Engineer 
