@@ -6,7 +6,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 17 year old Male(he/him) based in New York tha
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=WarpWing&hide_border=true&theme=redical)
 ## Projects I've touched
 
-- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - DevOps Consultant and Contributor
+- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - DevOps Consultant, Ex-Developer and Active Contributor
 
 - [Engima](https://github.com/WarpWing/MultipassSimplified) - Current active maintainer and main developer (Discontinued)
 
