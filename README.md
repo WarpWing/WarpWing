@@ -5,11 +5,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 18 year old Male(he/him) based in New York tha
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WarpWing&theme=radical&hide_border=true&fire=DD2311)](https://git.io/streak-stats)
 ## Projects I've touched
 
-- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - DevOps Consultant, Ex-Developer and Active FOSS Contributor
-
-- [Engima](https://github.com/WarpWing/MultipassSimplified) - Current active maintainer and main developer (Discontinued)
-
-- [Longhorn](https://github.com/WarpWing/Longhorn) - Current active maintainer and main developer (Discontinued)
+- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - DevOps Director, Ex-Developer and Active FOSS Contributor
 
 
 ## Technologies I've worked with 
