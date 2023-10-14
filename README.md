@@ -1,6 +1,6 @@
 # Welcome to my Github Page!
 
-Hi! I'm Ty Chermsirivatana. I'm a 18 year old Male(he/him) based in New York that loves to experiment with backend infrastructure and logistics. I'm currently pursuing the AWS Certified Cloud Practitioner certificate and plan to work my way up to AWS DevOps Engineer Professional.
+Hi! I'm Ty Chermsirivatana. I'm a 19 year old Male(he/him) based in New York who loves to experiment with backend infrastructure and logistics. I'm currently pursuing the AWS Certified Cloud Practitioner certificate and plan to work my way up to AWS DevOps Engineer Professional.
 # My Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WarpWing&theme=radical&hide_border=true&fire=DD2311)](https://git.io/streak-stats)
 ## Projects I've touched
