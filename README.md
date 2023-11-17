@@ -38,8 +38,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 19 year old Male(he/him) based in New York who
 - [YAML](https://yaml.org/) Markup Language
 
 ## Organizations I'm currently affilated with.
-- [First World(Hiatus)](https://github.com/First-World-LLC) - (Hiatus Developer)
-- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - Freelance DevOps Consultant
+- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - (Unpaid FOSS DevOps Director)
 # Where you can contact me 
 - Discord: WarpWing#3866
 
