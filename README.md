@@ -41,7 +41,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 19 year old Male(he/him) based in New York who
 - [YAML](https://yaml.org/) Markup Language
 
 ## Organizations I'm currently affilated with.
-- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - (Unpaid FOSS DevOps Director)
+- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - (FOSS DevOps Director)
 ## Websites I currently practice on 
 - [Leetcode](https://leetcode.com/tycherms/)
 - [TryHackMe](https://tryhackme.com/p/tycherms)
