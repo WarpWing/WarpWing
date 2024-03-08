@@ -6,7 +6,7 @@ Hi! I'm Ty Chermsirivatana. I'm a 19 year old Male(he/him) based in New York who
 ## Projects I've touched
 
 - [FarmData2](https://github.com/FarmData2/FarmData2) - FOSS Contributor and Developer
-- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - DevOps Director
+- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - DevSecOps Director
 - [SkyStats](https://github.com/skystatsdev) - DevOps Engineer
 
 
