@@ -17,5 +17,6 @@ I'm a 19 year old Male(he/him) based in New York currently studying Law and Poli
 - [HackTheBox](https://app.hackthebox.com/users/439610)
 - [TryHackMe](https://tryhackme.com/p/tycherms)
 # Where you can contact me 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) : WarpWing
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [Ty Chermsirivatana](https://www.linkedin.com/in/ty-chermsirivatana/)
 
