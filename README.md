@@ -1,4 +1,4 @@
-# Hi, my name is Ty!
+# Hi, I'm Ty 👋
 
 I'm a 19 year old Male(he/him) based in New York currently studying Law and Policy at Dickinson College with a minor in Computer Science. I love experimenting with fullstack, database and security solutions. I'm the current DevSecOps Director at [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and work on [SkyStats](https://github.com/skystatsdev) as a DevOps Engineer and a FOSS Developer at Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project. I am currently studying for my AWS Cloud Practioner Certificate and am currently working up to AWS DevOps Professional.
 
