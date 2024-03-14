@@ -1,13 +1,9 @@
-# Welcome to my Github Page!
+# Hi, my name is Ty!
 
-Hi! I'm Ty Chermsirivatana. I'm a 19 year old Male(he/him) based in New York who loves to experiment with backend infrastructure and logistics. I'm currently pursuing the AWS Certified Cloud Practitioner certificate and plan to work my way up to AWS DevOps Engineer Professional.
+Hi! I'm Ty Chermsirivatana. I'm a 19 year old Male(he/him) based in New York currently studying Law and Policy at Dickinson College with a minor in Computer Science. I love experimenting with fullstack, database and security solutions. I'm the current DevSecOps Director at [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and work on [SkyStats](https://github.com/skystatsdev) as a DevOps Engineer and a FOSS Developer at Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project. I am currently studying for my AWS Cloud Practioner Certificate and am currently working up to AWS DevOps Professional.
+
 # My Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WarpWing&theme=radical&hide_border=true&fire=DD2311)](https://git.io/streak-stats)
-## Projects I've touched
-
-- [FarmData2](https://github.com/FarmData2/FarmData2) - FOSS Contributor and Developer
-- [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt)  - DevSecOps Director
-- [SkyStats](https://github.com/skystatsdev) - DevOps Engineer
 
 ## Technologies I've worked with 
 | Languages | Backend | DevOps | AI/ML | Web Dev |
