@@ -21,5 +21,5 @@ Hi! I'm Ty Chermsirivatana. I'm a 19 year old Male(he/him) based in New York who
 - [HackTheBox](https://app.hackthebox.com/users/439610)
 - [TryHackMe](https://tryhackme.com/p/tycherms)
 # Where you can contact me 
-- Discord: WarpWing#3866
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
