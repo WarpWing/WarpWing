@@ -1,6 +1,6 @@
 # Hi, I'm Ty 👋
 
-I am a 19-year-old male, based in New York, presently pursuing a major in Law and Policy with a minor in Computer Science as a Freshman at Dickinson College. My interests lie in fullstack development, cloud strategy, system design and cybersecurity solutions. In my current capacity, I serve as the DevSecOps Consultant for [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and contribute as a FOSS Developer at Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project. I am in the process of earning my AWS Cloud Practitioner Certificate and am aiming to achieve the AWS DevOps Professional certification.
+I am a 19-year-old male, based in New York, presently pursuing a major in Law and Policy with a minor in Computer Science as a Freshman at Dickinson College. My interests lie in fullstack development, cloud strategy, system design and cybersecurity solutions. In my current capacity, I serve as the DevOps Consultant for [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and contribute as a FOSS Developer at Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project. I am in the process of earning my AWS Cloud Practitioner Certificate and am aiming to achieve the AWS DevOps Professional certification.
 # My Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WarpWing&theme=radical&hide_border=true&fire=DD2311)](https://git.io/streak-stats)
 
