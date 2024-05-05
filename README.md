@@ -16,9 +16,6 @@ My name is Ty "WarpWing" Chermsirivatana. I am a 19-year-old Thai-American male 
 ## Organizations I'm currently affilated with.
 - [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - (DevOps Consultant)
 ## Check out my [blog](https://blog.warpwing.cloud/) where I post my thoughts and experiences!
-
-- [HackTheBox](https://app.hackthebox.com/users/439610)
-- [TryHackMe](https://tryhackme.com/p/tycherms)
 # Where you can contact me 
 - Discord: [WarpWing](https://discord.com/users/232239924462616578/)
 - LinkedIn: [Ty Chermsirivatana](https://www.linkedin.com/in/ty-chermsirivatana/)
