@@ -5,8 +5,6 @@ My name is Ty "WarpWing" Chermsirivatana. I am a 19-year-old Thai-American male 
 ## Leetcode and TryHackMe Stats
 [![LeetCode user tycherms](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftycherms&logo=leetcode&logoColor=yellow)](https://leetcode.com/tycherms/)
 
-![image](https://leetcode-badge-showcase.vercel.app/api?username=tycherms&theme=github-dark)
-
 ![THM](https://tryhackme-badges.s3.amazonaws.com/tycherms.png)
 ## Technologies I've worked with (and used throughout many projects as of March 2024)
 | Languages | Backend | DevOps | AI/ML | Web Dev |
