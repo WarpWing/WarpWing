@@ -1,10 +1,11 @@
 # Hi, I'm Ty 👋
 My name is Ty "WarpWing" Chermsirivatana. I am a 20-year-old Thai-American male from New York! I am presently a Law and Policy and Political Science double major with a minor in Computer Science as a Junior at Dickinson College. My interests lie in fullstack development, cloud strategy, system design and cybersecurity solutions. In my current capacity, I serve as the DevOps Consultant for [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and contribute as a FOSS Developer at Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project. I currently hold the [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f70c200b-484a-4852-b4c8-5db1dd5d1a6c/public_url) and [OCI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F13269DE979B169316FA595D475898C1A11285081CCBBC3F469B977E4F5C910C). Currently, I'm working on independent projects and studying for college!
-## Leetcode and TryHackMe Stats
+## Cool Statistics
 [![LeetCode user tycherms](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftycherms&logo=leetcode&logoColor=yellow)](https://leetcode.com/tycherms/)
 
 ![tycherms](https://github.com/user-attachments/assets/c861f4dd-806c-4daa-9546-d99bad2479fc)
 
+![](https://badges.lastfm.workers.dev/last-played?user=rj&style=for-the-badge)
 ## Technologies I've worked with (and used throughout many projects as of July 2025)
 | Languages | Backend | DevOps | AI/ML | Web Dev |
 |----------|----------|----------|----------|----------|
