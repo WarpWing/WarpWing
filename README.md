@@ -7,7 +7,7 @@ My name is Ty "WarpWing" Chermsirivatana. I am a 20-year-old Thai-American male 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-
+<p align="center"><a href="https://www.last.fm/music/Athena/Moment+(Worlds+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/16df22a41f90983eb9aae12538c4181b.jpg" title="Athena - Moment (Worlds Version)"></a> <a href="https://www.last.fm/music/KPop+Demon+Hunters+Cast/KPop+Demon+Hunters+(Soundtrack+from+the+Netflix+Film)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c8b02d0731e867cd38ca0ff7329a759b.jpg" title="KPop Demon Hunters Cast - KPop Demon Hunters (Soundtrack from the Netflix Film)"></a> <a href="https://www.last.fm/music/Nathan+Dawe/21+Reasons+(feat.+Ella+Henderson)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9f8cd9b03e20206c85735bbca25d60db.png" title="Nathan Dawe - 21 Reasons (feat. Ella Henderson)"></a> <a href="https://www.last.fm/music/Sho/blanc+(Slowed)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/209455e18b53b381b43483912b1aa382.png" title="Sho - blanc (Slowed)"></a> <a href="https://www.last.fm/music/Ti%C3%ABsto/DRIVE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/16e39fd39917aa2f93d8ad09530a07fc.jpg" title="Tiësto - DRIVE"></a> <a href="https://www.last.fm/music/Alan+Walker/Better+Off+(Alone,+Pt.+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cc66ad63cbe58fef67e1c44d1e44a988.jpg" title="Alan Walker - Better Off (Alone, Pt. III)"></a> </p>
 
 ## Technologies I've worked with (and used throughout many projects as of July 2025)
 | Languages | Backend | DevOps | AI/ML | Web Dev |
