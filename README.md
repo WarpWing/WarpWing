@@ -7,7 +7,7 @@ My name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-American male 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Tame+Impala/Dracula"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b54c44fa13530ee2e088e13096becaf2.jpg" title="Tame Impala - Dracula"></a> <a href="https://www.last.fm/music/Bad+Computer/Somewhere+New"><img src="https://lastfm.freetls.fastly.net/i/u/64s/416cb519b9f3f5c4fd8245e16dfc9c7c.jpg" title="Bad Computer - Somewhere New"></a> <a href="https://www.last.fm/music/Almost+Monday/DIVE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/121f70797e6a80d8a307035023868bc1.jpg" title="Almost Monday - DIVE"></a> <a href="https://www.last.fm/music/Bad+Computer/Silhouette+(Feed+Me+Remix)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8ae7351b8f8adc65a80315c793fe85e6.jpg" title="Bad Computer - Silhouette (Feed Me Remix)"></a> <a href="https://www.last.fm/music/Cartoon/Howling"><img src="https://lastfm.freetls.fastly.net/i/u/64s/23256880f873f2c642453e944bbfeca0.jpg" title="Cartoon - Howling"></a> <a href="https://www.last.fm/music/Cartoon/Howling+(Andromedik+Remix)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e64330ebfdbc0820ec4111ab464f4163.jpg" title="Cartoon - Howling (Andromedik Remix)"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Tame+Impala/Dracula"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b54c44fa13530ee2e088e13096becaf2.jpg" title="Tame Impala - Dracula"></a> </p>
 
 ## Technologies I've worked with (and used throughout many projects as of November 2025)
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
