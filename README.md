@@ -7,7 +7,7 @@ My name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-American male 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Tame+Impala/Dracula"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b54c44fa13530ee2e088e13096becaf2.jpg" title="Tame Impala - Dracula"></a> </p>
+<p align="center"></p>
 
 ## Technologies I've worked with (and used throughout many projects as of November 2025)
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
