@@ -7,7 +7,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Bad+Computer/Somewhere+New"><img src="https://lastfm.freetls.fastly.net/i/u/64s/416cb519b9f3f5c4fd8245e16dfc9c7c.jpg" title="Bad Computer - Somewhere New"></a> <a href="https://www.last.fm/music/Fergie/Double+Dutchess"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d11fbf8516a848d6fd57984193ce591a.jpg" title="Fergie - Double Dutchess"></a> <a href="https://www.last.fm/music/Fergie/L.A.LOVE+(la+la)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dc1a48e3d92c4638c66b6c480a7dfa58.png" title="Fergie - L.A.LOVE (la la)"></a> <a href="https://www.last.fm/music/Justice/Hyperdrama"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8ba0779aa934bfc8a4c885862f142add.jpg" title="Justice - Hyperdrama"></a> <a href="https://www.last.fm/music/Timbaland/Shock+Value"><img src="https://lastfm.freetls.fastly.net/i/u/64s/483ee6586f4704ee5d478071540ec0d7.jpg" title="Timbaland - Shock Value"></a> <a href="https://www.last.fm/music/Various+Artists/NCS:+The+Best+of+2016"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d55932d44b33e431e68a3c0c4daceb98.jpg" title="Various Artists - NCS: The Best of 2016"></a> </p>
+<p align="center"></p>
 
 ## Technologies I've worked with (and used throughout many projects as of November 2025)
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
