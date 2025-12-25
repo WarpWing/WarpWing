@@ -8,7 +8,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Subtact/Tunnel+Vision"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e3f2545f19437821ebc78eb6d7157e1f.jpg" title="Subtact - Tunnel Vision"></a> </p>
 
 ## Technologies I've worked with (and used throughout many projects as of November 2025)
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
