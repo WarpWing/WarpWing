@@ -8,7 +8,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Aisake/My+Love"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7a13dad90cf52277f4552c2875b07c30.jpg" title="Aisake - My Love"></a> <a href="https://www.last.fm/music/Alan+Walker/Better+Off+(Alone,+Pt.+III)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cc66ad63cbe58fef67e1c44d1e44a988.jpg" title="Alan Walker - Better Off (Alone, Pt. III)"></a> <a href="https://www.last.fm/music/Armin+van+Buuren/On+&+On"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0127e475ae54370c16c1beb8a6aa1996.jpg" title="Armin van Buuren - On & On"></a> <a href="https://www.last.fm/music/Dion+Timmer/Internet+Boy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/aa13eb056452157f65eefb0abb314e76.jpg" title="Dion Timmer - Internet Boy"></a> <a href="https://www.last.fm/music/Ellis/After+Hours"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a61e6f23bb67c26483f57f4aa2fe4961.jpg" title="Ellis - After Hours"></a> <a href="https://www.last.fm/music/Galantis/Runaway+(U+&+I)+%5BRemixes%5D"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9c557f4af666af9c7af4cb3ebc713b14.jpg" title="Galantis - Runaway (U & I) [Remixes]"></a> </p>
 
 ## Technologies I've worked with (and used throughout many projects as of November 2025)
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
