@@ -9,7 +9,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Clarx/Castle"><img src="https://lastfm.freetls.fastly.net/i/u/64s/56d617b320d94623dd2172d65998a51d.jpg" title="Clarx - Castle"></a> <a href="https://www.last.fm/music/Naomi/SPACE!"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0835ea0256a7a0530565a4f4c7a0689a.jpg" title="Naomi - SPACE!"></a> <a href="https://www.last.fm/music/Sho/blanc+(Slowed)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/209455e18b53b381b43483912b1aa382.png" title="Sho - blanc (Slowed)"></a> <a href="https://www.last.fm/music/Teyeq/Demons"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a2dfda7e07901abd923c27394b7ae3c3.jpg" title="Teyeq - Demons"></a> <a href="https://www.last.fm/music/WRLD/Chase+it"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4ec30e5751590abcd9be23cfd4b2c491.jpg" title="WRLD - Chase it"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/WRLD/Chase+it"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4ec30e5751590abcd9be23cfd4b2c491.jpg" title="WRLD - Chase it"></a> </p>
 
 ## Technologies I've worked with (and used throughout many projects as of January 2026)
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
