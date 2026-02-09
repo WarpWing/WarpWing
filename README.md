@@ -9,7 +9,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/WRLD/Chase+it"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4ec30e5751590abcd9be23cfd4b2c491.jpg" title="WRLD - Chase it"></a> </p>
+<p align="center"></p>
 
 ## Technologies I've worked with (and used throughout many projects as of January 2026)
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
