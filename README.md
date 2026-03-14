@@ -9,7 +9,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/ArLOW/Freefall"><img src="https://lastfm.freetls.fastly.net/i/u/64s/07fefde7870f2f89737ee579f9b0ffb8.jpg" title="ArLOW - Freefall"></a> <a href="https://www.last.fm/music/Athena/Eternal"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9dbbe8a42fa0981b26b2f4e55a68a0ee.jpg" title="Athena - Eternal"></a> <a href="https://www.last.fm/music/Cartoon/Omen"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b611d27a802438420b62e5c93671e6f0.jpg" title="Cartoon - Omen"></a> <a href="https://www.last.fm/music/Clarx/Healing"><img src="https://lastfm.freetls.fastly.net/i/u/64s/af48fa2f4e678556e0bb25e15ca6a896.jpg" title="Clarx - Healing"></a> <a href="https://www.last.fm/music/Dexter+King/Get+to+Know+You"><img src="https://lastfm.freetls.fastly.net/i/u/64s/baee7922fb6f13be2f7477ecbf6549f6.jpg" title="Dexter King - Get to Know You"></a> <a href="https://www.last.fm/music/Ellis/After+Hours"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a61e6f23bb67c26483f57f4aa2fe4961.jpg" title="Ellis - After Hours"></a> </p>
 
 ## Technologies I've worked with 
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
