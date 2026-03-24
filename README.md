@@ -9,7 +9,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Athena/Eternal"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9dbbe8a42fa0981b26b2f4e55a68a0ee.jpg" title="Athena - Eternal"></a> <a href="https://www.last.fm/music/Bad+Computer/Paradigm"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5a22d4f004c73719ba2da99e2a1910f0.jpg" title="Bad Computer - Paradigm"></a> <a href="https://www.last.fm/music/Ellis/The+Taste%2FOrbit"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6a5d89039268a4565d375f95b1ee3219.jpg" title="Ellis - The Taste/Orbit"></a> <a href="https://www.last.fm/music/Grant/Move+On"><img src="https://lastfm.freetls.fastly.net/i/u/64s/084c64ecacfcdb1b889b90eb8d84a50c.jpg" title="Grant - Move On"></a> <a href="https://www.last.fm/music/Hoaprox/New+World"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ee9498496722c583b0f2b473cf6a3b0f.jpg" title="Hoaprox - New World"></a> <a href="https://www.last.fm/music/Midnight+CVLT/One+Shot"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3972322c99c5734502f9ecdb1aaa1a0a.jpg" title="Midnight CVLT - One Shot"></a> </p>
+<p align="center"></p>
 
 ## Technologies I've worked with 
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
