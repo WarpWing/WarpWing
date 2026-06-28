@@ -9,7 +9,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/IVE/REBEL+HEART"><img src="https://lastfm.freetls.fastly.net/i/u/64s/604d0177cd43ce34f8c6d29f10bafd06.jpg" title="IVE - REBEL HEART"></a> <a href="https://www.last.fm/music/Red+Warszawa/De+4+%C3%A5rstider+i+Nordvest"><img src="https://lastfm.freetls.fastly.net/i/u/64s/07744e347dc24817ac3b587fe4ed1f2d.jpg" title="Red Warszawa - De 4 årstider i Nordvest"></a> </p>
 
 ## Technologies I've worked with 
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
