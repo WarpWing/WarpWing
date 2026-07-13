@@ -9,7 +9,7 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Amin%C3%A9/ONEPOINTFIVE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ad543ebcab6afc93c7de37e3efb076a5.jpg" title="Aminé - ONEPOINTFIVE"></a> <a href="https://www.last.fm/music/Avicii/Stories"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7e11890eb230518924d132ee1e31ec37.jpg" title="Avicii - Stories"></a> <a href="https://www.last.fm/music/Bakermat/The+Ringmaster"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a4a380dc89f5a18bf50f2eaa41f75438.jpg" title="Bakermat - The Ringmaster"></a> <a href="https://www.last.fm/music/Beachcrimes/AM"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c6f22776198dccc022d426e89f39dfef.jpg" title="Beachcrimes - AM"></a> <a href="https://www.last.fm/music/d4vd/WITHERED"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e29c9bc7c61db45b367cbd7c04be44b0.png" title="d4vd - WITHERED"></a> <a href="https://www.last.fm/music/Don+Toliver/Lose+My+Mind+(feat.+Doja+Cat)+%5BFrom+F1%C2%AE+The+Movie%5D"><img src="https://lastfm.freetls.fastly.net/i/u/64s/441f73584649b04ddd898b9c4cc65f7b.jpg" title="Don Toliver - Lose My Mind (feat. Doja Cat) [From F1® The Movie]"></a> </p>
 
 ## Technologies I've worked with 
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
