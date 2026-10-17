@@ -3,13 +3,8 @@ Hello!, my name is Ty "WarpWing" Chermsirivatana. I am a 21 year old Thai-Americ
 ## Cool Badges
 [![LeetCode user tycherms](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftycherms&logo=leetcode&logoColor=yellow)](https://leetcode.com/tycherms/)&nbsp;&nbsp;<a href="https://github.com/WarpWing.gpg"><img src="https://gpg-badge.hesreallyhim.com/WarpWing.svg?style=card" height="32" alt="GPG Key Badge" /></a>
 
+<img width="1800" height="1350" alt="tycherms-quiet-whoburnedmore" src="https://github.com/user-attachments/assets/f04d0f82-4da3-4321-96fe-397c19a12bde" />
 
-![tycherms](https://github.com/user-attachments/assets/c861f4dd-806c-4daa-9546-d99bad2479fc)
-
-
-## 🎵 Albums I've listened the most this week
-<!-- lastfm -->
-<p align="center"></p>
 
 ## Technologies I've worked with 
 | Languages | Backend | Cloud/DevOps | AI/ML | Web Dev |
